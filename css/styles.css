@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Fruktur&display=swap');
+body {
+    font-family: 'Fruktur', cursive;
+    font-style: italic;
+    background-color: cornflowerblue; 
+    position: absolute;
+    margin-top: auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+ 
+ 
+ 
+  
+    
+}
+h3 {
+    background-color: red ;
+    text-decoration: underline;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 9px;
+    display: inline-block;
+    
+    
+    
+    
+}
+
+ul {
+    color:black;
+    list-style-type: none;
+}
+
+
+ul mark {
+    background-color: rgb(226, 43, 89);
+}
+
+p {
+    width: 960px;
+    padding: 30px;
+    border: 5px solid red;
+    
+    
+}
+
+h2 {
+    background-color: red;
+    text-decoration: underline;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 9px;
+    display: inline-block;
+}
+
+h4, h5, h6 {
+    text-decoration: underline;
+    font-size: 18px;
+    line-height: 9px;
+    
+  
+    
+}
